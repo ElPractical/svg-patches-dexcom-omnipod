@@ -1,4 +1,4 @@
-# Patches for Dexcom G7 and Omnipod Dash
+# Patches for Dexcom G7, Freesytle Libre 3 and Omnipod Dash
 
 This repository contains vector graphics (SVG) for creating your own
 overpatches and underpatches for:
