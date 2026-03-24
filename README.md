@@ -4,6 +4,7 @@ This repository contains vector graphics (SVG) for creating your own
 overpatches and underpatches for:
 
 - Dexcom G7
+- Freestyle Libre 3
 - Omnipod Dash
 
 The files are set up to work well with cutting plotters or laser cutters.
@@ -18,6 +19,7 @@ The files are set up to work well with cutting plotters or laser cutters.
   - `Omnipod_Dash_Underpatch_Fixomull.svg`
   - `Dexcom_G7_Overpatch_Tegaderm.svg`
   - `Dexcom_G7_Overpatch_Tegaderm_90deg.svg`
+  - `Freestyle_Libre_3_Overpatch_Tegaderm.svg`
 
 ## How to use
 
@@ -36,6 +38,7 @@ PNG previews are stored in `images/`.
 ![Omnipod Dash Underpatch Fixomull](images/Omnipod_Dash_Underpatch_Fixomull.png)
 ![Dexcom G7 Overpatch Tegaderm](images/Dexcom_G7_Overpatch_Tegaderm.png)
 ![Dexcom G7 Overpatch Tegaderm 90deg](images/Dexcom_G7_Overpatch_Tegaderm_90deg.png)
+![Freestyle Libre 3 Overpatch Tegaderm ](images/Freestyle_Libre_3_Overpatch_Tegaderm.png)
 
 To regenerate previews:
 
